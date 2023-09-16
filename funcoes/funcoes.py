@@ -109,7 +109,6 @@ def montaDicionario(**args):
     for chave, valor in args.items():
         print(f'chave: {chave} valor: {valor}')
 
-montaDicionario(nome='bruno',tel='123456789')
 
 
 

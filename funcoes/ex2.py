@@ -5,4 +5,3 @@ def Positivo(numero: float) -> str:
     else:
         return 'P'
     
-print(Positivo(float(input('Numero: '))))

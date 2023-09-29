@@ -26,7 +26,7 @@
 
 # self.marca -> public
 # self._marca -> private
-# self.__marca -> protected
+# self.__marca -> protected 
 class Carro:
     def __init__(self, marca, modelo):
         self.marca = marca
